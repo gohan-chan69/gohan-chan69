@@ -13,7 +13,7 @@
   
   
 # Statistics
-<img align="left" width="47%" src="![GITHUB](https://github-readme-stats.vercel.app/api?username=TusTusDev&count_private=true&show_icons=true&theme=radical)" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TusTusDev&count_private=true&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohan-chan69&theme=radical" />
 
 
