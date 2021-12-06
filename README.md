@@ -13,7 +13,7 @@
   
   
 # Statistics
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gohan-chan69&show_icons=true&theme=radical)" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gohan-chan69&theme=radical)" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohan-chan69&theme=radical" />
 
 
