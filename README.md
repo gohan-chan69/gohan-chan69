@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=gohan-chan69)
-- 🔭 I’m currently working on: itadori nuker
-- 🌱 I’m currently learning: ml,html,ccna
+- 🔭 I’m currently working on: your mom
+- 🌱 I’m currently learning: ml,ccna
 - 📫 How to reach me: gohan_chan#8384
 
 <p align="center">
